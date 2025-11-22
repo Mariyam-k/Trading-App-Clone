@@ -1,1 +1,1 @@
-# Tarding-App--Fullstack
+# Trading-App--Fullstack
